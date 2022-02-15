@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m system information student; -
-🌱 I’m currently learning JavaScript with React Native; -
-👨‍💻 I’m currently working on a project for my final paper -
+🔭 I’m system information student;<br>
+🌱 I’m currently learning JavaScript with React Native; <br>
+👨‍💻 I’m currently working on a project for my final paper <br>
 <!--
 **Kalebeadv/Kalebeadv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
