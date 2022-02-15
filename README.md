@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m system information student;<br>
+🔭 I’m information system student;<br>
 🌱 I’m currently learning JavaScript with React Native; <br>
 👨‍💻 I’m currently working on a project for my final paper. <br>
 <!--
