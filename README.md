@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+i am system information student
+
+Skills: C / Java / SQL
 <!--
 **Kalebeadv/Kalebeadv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
