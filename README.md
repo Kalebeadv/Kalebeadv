@@ -3,6 +3,8 @@
 🔭 I’m information system student;<br>
 🌱 I’m currently learning JavaScript with React Native; <br>
 👨‍💻 I’m currently working on a project for my final paper. <br>
+⚡ [My favorite project](https://kalebeadv.github.io/gerenciamento-escolar.github.io/)
+
 <!--
 **Kalebeadv/Kalebeadv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
