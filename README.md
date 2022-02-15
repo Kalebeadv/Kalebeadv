@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-i am system information student
+-i am system information student-
 
 Skills: C / Java / SQL
 <!--
