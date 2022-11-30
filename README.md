@@ -4,8 +4,8 @@
 
 
 
-![Kalebe github stats](https://github-readme-stats.vercel.app/api?username=kalebeadv&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Kalebe Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kalebeadv&layout=compact&langs_count=8&hide_border=true)
+![Kalebe github stats](https://github-readme-stats.vercel.app/api?username=Kalebeadv&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Kalebe Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kalebeadv&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 
