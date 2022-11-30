@@ -1,4 +1,4 @@
-## Alou <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,eu sou o [Kalebe!](https://www.linkedin.com/in/aakash9868sinha/) 
+## Alou <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,eu sou o Kalebe!
 
 
 
